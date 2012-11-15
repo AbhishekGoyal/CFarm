@@ -1,1 +1,1 @@
-console.log("Hello World - Pushing more changes to server");
+console.log("Hello World - Checking Diff");
